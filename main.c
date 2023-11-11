@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <time.h>
 
-// Declaration of struct date
+// Declaration of date
 struct date {
     int day;
     int month;
